@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://example.com/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
+    </url>
+    <url>
+        <loc>https://example.com/be%C3%A1ll%C3%ADt%C3%A1s/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/be%C3%A1ll%C3%ADt%C3%A1s/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/be%C3%A1ll%C3%ADt%C3%A1s/"/>
+    </url>
+    <url>
+        <loc>https://example.com/friss%C3%ADt%C3%A9s/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/friss%C3%ADt%C3%A9s/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/friss%C3%ADt%C3%A9s/"/>
+    </url>
+    <url>
+        <loc>https://example.com/router/Mikrotik/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/router/Mikrotik/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/router/Mikrotik/"/>
+    </url>
+    <url>
+        <loc>https://example.com/router/OPNSense/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/router/OPNSense/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/router/OPNSense/"/>
+    </url>
+    <url>
+        <loc>https://example.com/router/asus/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/router/asus/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/router/asus/"/>
+    </url>
+    <url>
+        <loc>https://example.com/en/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/"/>
+    </url>
+    <url>
+        <loc>https://example.com/en/be%C3%A1ll%C3%ADt%C3%A1s/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/be%C3%A1ll%C3%ADt%C3%A1s/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/be%C3%A1ll%C3%ADt%C3%A1s/"/>
+    </url>
+    <url>
+        <loc>https://example.com/en/friss%C3%ADt%C3%A9s/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/friss%C3%ADt%C3%A9s/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/friss%C3%ADt%C3%A9s/"/>
+    </url>
+    <url>
+        <loc>https://example.com/en/router/Mikrotik/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/router/Mikrotik/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/router/Mikrotik/"/>
+    </url>
+    <url>
+        <loc>https://example.com/en/router/OPNSense/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/router/OPNSense/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/router/OPNSense/"/>
+    </url>
+    <url>
+        <loc>https://example.com/en/router/asus/</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/router/asus/"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://example.com/router/asus/"/>
+    </url>
+</urlset>
