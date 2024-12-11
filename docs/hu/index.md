@@ -14,6 +14,6 @@ Ez azt jelenti, hogy csak a problémás, általunk támogatott szolgáltatások 
 
 <div class="grid cards" markdown>
 
-- [:material-cog: Beállítás](/hu/beállítás.md)
-- [:material-update: Frissítés](/hu/frissítés.md)
+- [:material-cog: Beállítás](beállítás.md)
+- [:material-update: Frissítés](frissítés.md)
 </div>

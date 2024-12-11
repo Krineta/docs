@@ -7,8 +7,6 @@ theme:
   favicon: /assets/logo.webp
   features:
     - navigation.footer
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.top
     - toc.follow
 
