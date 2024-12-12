@@ -1,5 +1,4 @@
 mkdocs
 mkdocs-material
 mkdocs-static-i18n
-mkdocs-git-authors-plugin
 mkdocs-git-revision-date-localized-plugin

@@ -7,7 +7,7 @@ Mielőtt belevágnál fontos letisztázni pár dolgot:
 * Csatlakozz a [Discord szerverünkhöz!](https://discord.gg/n2WmGaEn3H)
 
 ## Config igénylés
-Miután beléptél a Discordra, szükséged lesz egy egyedi Wireguard configurációra, ami arra jó, hogy biztonságos módon tudd használni az általunk átirányított szolgáltatásokat. **A forgalom tartalmát még mi sem látjuk!**
+Miután beléptél a Discordra, szükséged lesz egy egyedi Wireguard configurációra, ami arra jó, hogy biztonságos módon tudd használni az általunk átirányított szolgáltatásokat.
 
 
 Nem kell túlgondolni, csak jelezd felénk a [`#beszélgető`]() szobában, hogy szeretnél egy configot, és, amint lehetőségünk lesz, adunk is.
