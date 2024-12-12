@@ -1,5 +1,5 @@
 site_name: FXDOCS
-site_url: https://example.com
+site_url: https://docs.fxtelekom.org
 
 theme:
   name: material
@@ -30,7 +30,20 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-
+nav:
+  - Bevezető: index.md
+  - Első lépések:
+    - Első lépések: first/first.md
+    - Wireguard telepítés: first/install.md
+    - Beállítás: first/setup.md
+  - Router beállítások:
+    - Mikrotik: router/Mikrotik.md
+    - Asus: router/asus.md
+    - OPNSense: router/OPNSense.md
+  - Egyéb infók:
+    - Szolgáltatások: other/services.md
+    - Adatkezelési nyilatkozat: other/privacy.md
+    - A DTAG problémáról: other/dtag.md
 
 extra:
   social:
@@ -45,6 +58,7 @@ copyright: © 2024 FXTELEKOM
 
 plugins:
   - search
+  - git-authors
   - i18n:
       docs_structure: folder
       reconfigure_material: true
@@ -57,6 +71,15 @@ plugins:
         - locale: en
           name: English
           build: true
+          nav_translations:
+            Bevezető: Introduction
+            Első lépések: First steps
+            Wireguard telepítés: Wireguard installation
+            Beállítás: Setup
+            Router beállítások: Router settings
+  - git-revision-date-localized:
+      enable_creation_date: true
+
 
 markdown_extensions:
   - attr_list
