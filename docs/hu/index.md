@@ -11,3 +11,15 @@ Ez azt jelenti, hogy csak a problémás, általunk támogatott szolgáltatások 
 !!! DANGER "Ez is!"
  
     Ha kilépsz a szerverről, azt annak tudjuk be, hogy nem érint vagy nem érdekel a szolgáltatás, és a configod (ha van) töröljük!
+## További információk
+
+<div class="grid cards" markdown>
+
+- [:material-information-outline: A probléma oka, és a megoldás](other/dtag)
+- [:material-information-outline: Támogatott szolgáltatások](other/services)
+- [:material-cog: Telepítés és beállítás](first/first)
+- [:material-update: Frissítés](update)
+- [:material-router-network: Beállítás routereken](router/router)
+- [:material-lock: Adatkezelési nyilatkozat](other/privacy)
+
+</div>

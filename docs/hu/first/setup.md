@@ -24,3 +24,6 @@ Ezután még **nem** lesz aktív a VPN kapcsolat, kattints rá az `Activate` gom
 ![](/assets/wg2.png)
 
 Ha megjelenik a zöld pont, és az `Active` felirat, akkor már aktív is a VPN, az ablakot bezárhatod, és élvezheted a gyors netet! :sunglasses:
+
+![](/assets/wg3.png)
+![](/assets/wg4.png)

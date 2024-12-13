@@ -30,20 +30,25 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Bevezető: index.md
   - Első lépések:
     - Első lépések: first/first.md
     - Wireguard telepítés: first/install.md
     - Beállítás: first/setup.md
+  - Frissítés: update.md
   - Router beállítások:
+    - Beállítás routereken: router/router.md
     - Mikrotik: router/Mikrotik.md
     - Asus: router/asus.md
     - OPNSense: router/OPNSense.md
   - Egyéb infók:
+    - A DTAG problémáról: other/dtag.md
     - Szolgáltatások: other/services.md
     - Adatkezelési nyilatkozat: other/privacy.md
-    - A DTAG problémáról: other/dtag.md
 
 extra:
   social:
