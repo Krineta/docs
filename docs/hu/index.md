@@ -20,6 +20,8 @@ Ez azt jelenti, hogy csak a problémás, általunk támogatott szolgáltatások 
 - [:material-cog: Telepítés és beállítás](first/first)
 - [:material-update: Frissítés](update)
 - [:material-router-network: Beállítás routereken](router/router)
+<!--
 - [:material-lock: Adatkezelési nyilatkozat](other/privacy)
+--->
 
 </div>
