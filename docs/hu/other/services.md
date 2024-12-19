@@ -12,3 +12,4 @@ Amennyiben nem találod a problémás szolgáltatást, jelezd nekünk Discordon,
 | Fastly         | [:material-list-box:](https://fxtelekom.org/ips/fastly.txt) |
 | Gcore          | [:material-list-box:](https://fxtelekom.org/ips/gcore.txt) |
 | Websupport SK  | [:material-list-box:](https://fxtelekom.org/ips/websupportsk.txt) |
+| Geforce NOW    | [:material-list-box:](https://fxtelekom.org/ips/gfn.txt) |
