@@ -3,6 +3,7 @@ site_url: https://docs.fxtelekom.org
 
 theme:
   name: material
+  language: hu
   logo: /assets/logo.webp
   favicon: /assets/logo.webp
   features:
@@ -63,24 +64,24 @@ copyright: © 2024 FXTELEKOM
 
 plugins:
   - search
-  - i18n:
-      docs_structure: folder
-      reconfigure_material: true
-      reconfigure_search: true
-      languages:
-        - locale: hu
-          default: true
-          name: Magyar
-          build: true
-        - locale: en
-          name: English
-          build: true
-          nav_translations:
-            Bevezető: Introduction
-            Első lépések: First steps
-            Wireguard telepítés: Wireguard installation
-            Beállítás: Setup
-            Router beállítások: Router settings
+#  - i18n:
+#      docs_structure: folder
+#      reconfigure_material: true
+#      reconfigure_search: true
+#      languages:
+#        - locale: hu
+#          default: true
+#          name: Magyar
+#          build: true
+#        - locale: en
+#          name: English
+#          build: true
+#          nav_translations:
+#            Bevezető: Introduction
+#            Első lépések: First steps
+#            Wireguard telepítés: Wireguard installation
+#            Beállítás: Setup
+#            Router beállítások: Router settings
   - git-revision-date-localized:
       enable_creation_date: true
 
