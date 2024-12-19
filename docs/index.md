@@ -6,7 +6,7 @@ Ez azt jelenti, hogy csak a problémás, általunk támogatott szolgáltatások 
 
 !!! INFO "Fontos!"
 
-    Közösségünk központja a Discord szerverünk, és ott értesítünk mindenkit  a fejleményekről, szóval érdemes figyelni legalább a #changelog (A szolgáltatással kapcsolatos frissítések) és #frissítések (A közösséget érintő frissítések) szobákat!
+    Közösségünk központja a Discord szerverünk, és ott értesítünk mindenkit  a fejleményekről, szóval érdemes figyelni legalább a [`#changelog`]() (A szolgáltatással kapcsolatos frissítések) és [`#frissítések`]() (A közösséget érintő frissítések) szobákat!
 
 !!! DANGER "Ez is!"
  
