@@ -17,7 +17,7 @@ Ez azt jelenti, hogy csak a problémás, általunk támogatott szolgáltatások 
 
 - [:material-information-outline: A probléma oka, és a megoldás](other/dtag)
 - [:material-information-outline: Támogatott szolgáltatások](other/services)
-- [:material-cog: Telepítés és beállítás](first/first)
+- [:material-cog: Telepítés és beállítás](first-steps/intro)
 - [:material-update: Frissítés](update)
 - [:material-router-network: Beállítás routereken](router/router)
 <!--

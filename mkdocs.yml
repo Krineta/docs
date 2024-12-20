@@ -37,9 +37,9 @@ extra_css:
 nav:
   - Bevezető: index.md
   - Első lépések:
-    - Első lépések: first/first.md
-    - Wireguard telepítés: first/install.md
-    - Beállítás: first/setup.md
+    - Első lépések: first-steps/intro.md
+    - Wireguard telepítés: first-steps/install.md
+    - Beállítás: first-steps/setup.md
   - Frissítés: update.md
   - Router beállítások:
     - Beállítás routereken: router/router.md
