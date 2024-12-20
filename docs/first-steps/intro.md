@@ -14,10 +14,7 @@ Nem kell túlgondolni, csak jelezd felénk a [`#beszélgető`]() szobában, hogy
 
 A configot, mivel bizalmas adatokat tartalmaz, és nem szeretnénk, hogy a többi felhasználó hozzáférhessen, ezért egy privát szobában adjuk át, amit rajtunk, és rajtad kívül nem lát senki.
 
-
-A neve hasonló lesz:
-
-![](/assets/dc1.png)
+A neve a discord felhasználóneved lesz.
 
 Az üzenet, illetve a szoba tartalma pedig a következőképp fog kinézni (Valós config, cenzúrázva!):
 
