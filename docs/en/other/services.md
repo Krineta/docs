@@ -1,7 +1,7 @@
 # Services
 On this page you will find the services we support and the corresponding ip lists. If you can't find the service you're having problems with, let us know on Discord and we'll see what we can do for you!
 
-| Szolgáltatás   | Lista               |
+| Service   | IP List               |
 | -------------- | ------------------- |
 | Cloudflare     | [:material-list-box:](https://fxtelekom.org/ips/cloudflare.txt) |
 | CS2            | [:material-list-box:](https://fxtelekom.org/ips/valve-cs2.txt) |
