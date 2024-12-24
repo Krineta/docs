@@ -5,7 +5,7 @@ Ha itt vagy bizonyára tapasztaltad, hogy Telekom hálózaton rengeteg oldal el�
 Az előbb említett dolgok azért történnek, mert a DTAG üzleti kérdést csinált abból, hogy egyéb szolgáltatók közvetlenül összeköttetésben legyenek-e a hálózatukkal, ezáltal azok a szolgáltatások, melyek nem kerülnek be, többnyire használhatatlanok lesznek Telekom hálózatról, mindez azért, mert a DTAG egy előfizetéses modellből több pénzt tud kivenni, mint az elégedett ügyfelekből. Egy gigavállalatnak sokszor a számok jobban számítanak, mint a megteremtett érték.
 
 ## Hol a megoldás?
-Korábban volt már rá példa, hogy beperelték a céget, valamint folyamatosan mennek a lakossági panaszok is, de ez nem minősül sikeresnek, ugyanis pénzel minden megoldható, ami pedig a DTAG-nak van :slight_smile:.
+Korábban volt már rá példa, hogy beperelték a céget, valamint folyamatosan mennek a lakossági panaszok is, de ez nem minősül sikeresnek, ugyanis pénzzel minden megoldható, ami pedig a DTAG-nak van :slight_smile:.
 
 Természetesen, ha akarnák, akkor simán megoldanák, viszont nem akarják, így nem maradt más, mint a közösségi megoldás, erre törekszünk mi is.
 
