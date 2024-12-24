@@ -1,8 +1,8 @@
 # Information about the problem
-If you're here, you've probably noticed that there are a lot of sites and games that are not accessible on Telekom's network. You've probably also heard the news that DTAG, alias the German Telekom, has been unable to reach an agreement with Cloudflare for years, or that Meta has disconnected from their network.
+If you're here, you've probably noticed that there are a lot of sites and games that are poorly accessible on Magyar Telekom's network. You've probably also heard the news that DTAG, alias the Deutsche Telekom, has been unable to reach an agreement with Cloudflare for years, or that Meta has disconnected from their network.
 
 ## The root of the problem
-The aforementioned things are happening because DTAG has made it a business issue whether other operators are directly connected to their network, thus the services that are not included will be mostly unusable from Telekom's network, all because DTAG can make more money from a subscription model than from satisfied customers. For a giant company, numbers are often more important than the value created.
+Because of DTAG's business policy, they do not peer with IXPs, only and exclusively with other providers, as they have a direct financial benefit from it. They could not make a profit on an IXP. Although Telekom is connected to the BIX network, they use selective routing technology and we strongly suspect that they only peer with certain BIX members. As a result, some traffic is seen to come and go via Germany, the US or Brazil.
 
 ## Where is the solution?
 There have been previous instances where the company has been sued, and there are ongoing complaints from the public, but this is not considered a success, as money can solve everything, which DTAG has 🙂.
