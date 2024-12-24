@@ -5,6 +5,9 @@ Szolgáltatásunk folyamatos fejlesztés alatt áll, és frissül. Ez azzal jár
 !!! INFO
     Ezeket a frissítéseket látod a [`#changelog`]() szobában!
 
+!!! DANGER "Fontos!"
+    Bármelyik megoldást is alkalmazod; a végén törölnöd kell Wireguard-ból a configot, majd újra hozzáadni!
+
 Ennek 3 módja van, kezdjük a legegyszerűbbel. Ez abban az esetben működik, ha például csak 2 tartomány bekerül valamelyik listába, vagy akár egy újba, például:
 ```
 10.20.30.0/24, 20.30.40.0/24
