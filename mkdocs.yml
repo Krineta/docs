@@ -34,6 +34,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - https://a.fxtelekom.hu/script.js
+
 nav:
   - Bevezető: index.md
   - Első lépések:
