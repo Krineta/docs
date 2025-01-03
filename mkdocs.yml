@@ -4,6 +4,7 @@ site_url: https://docs.fxtelekom.org
 theme:
   name: material
   language: hu
+  custom_dir: docs/partials
   logo: /assets/logo.webp
   favicon: /assets/logo.webp
   features:
@@ -33,9 +34,6 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-
-extra_javascript:
-  - https://a.fxtelekom.hu/script.js
 
 nav:
   - Bevezető: index.md
