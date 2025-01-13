@@ -26,4 +26,3 @@ A szolgáltatás jelen állapotában a Magyar Telekom, illetve annak infrastrukt
 | -------------- | ---------------------------|
 | Magyar Telekom | A szolgáltatás középpontja |
 | Vidanet        | Telekom hálózatot és routingot használó kisebb szolgáltató |
-| GTS Hungary    | Telekom hálózatot és routingot használó kisebb szolgáltató |
