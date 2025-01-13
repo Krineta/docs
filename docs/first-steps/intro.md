@@ -2,7 +2,7 @@
 
 Mielőtt belevágnál fontos letisztázni pár dolgot:
 
-* Nem szeretnénk, ha hamis reményeket fűznél a szolgáltatáshoz, ezért mindenek előtt olvasd el, hogy milyen [szolgáltatásokat támogatunk](/other/services) jelenleg!
+* Nem szeretnénk, ha hamis reményeket fűznél a szolgáltatáshoz, ezért mindenek előtt olvasd el, hogy milyen [szolgáltatásokat és szolgáltatókat támogatunk](/other/services) jelenleg!
 
 * Csatlakozz a [Discord szerverünkhöz!](https://discord.gg/n2WmGaEn3H)
 
