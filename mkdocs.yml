@@ -51,6 +51,7 @@ nav:
     - A DTAG problémáról: other/dtag.md
     - Szolgáltatások: other/services.md
     #    - Adatkezelési nyilatkozat: other/privacy.md
+  - Támogatás: support.md
 
 extra:
   social:
@@ -88,6 +89,7 @@ plugins:
             Egyéb infók: Other information
             A DTAG problémáról: About the DTAG problem
             Szolgáltatások: Services
+            Támogatás: Support
   - git-revision-date-localized:
       enable_creation_date: true
 
