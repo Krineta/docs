@@ -17,7 +17,7 @@ Free:
 
 * 8 nap inaktivitás után config törlés
 
-Támogató:
+Támogató (Egyszeri támogató):
 
 * Korai hozzáférés bizonyos szolgáltatásokhoz
 
@@ -25,7 +25,7 @@ Támogató:
 
 * Inaktivitás után sem törlődnek a konfigurációk
 
-Támogató+:
+Támogató+ (Havi támogató):
 
 * Minden ami a sima támogatóban
 
