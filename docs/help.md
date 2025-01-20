@@ -37,7 +37,7 @@ Mikor csatlakozol az internetre, valójában több szerveren mész keresztül, m
 
 === "Windows"
 
-    Az alábbi parancs megmutatja, hogy milyen utat jársz be, mielőtt eléred uticálod.
+    Az alábbi parancs megmutatja, hogy milyen utat jársz be, mielőtt eléred uticélod.
 
     ```title="tracert"
     tracert 1.1.1.1
@@ -46,7 +46,7 @@ Mikor csatlakozol az internetre, valójában több szerveren mész keresztül, m
 
 === "Linux"
 
-    Az alábbi parancs megmutatja, hogy milyen utat jársz be, mielőtt eléred uticálod.
+    Az alábbi parancs megmutatja, hogy milyen utat jársz be, mielőtt eléred uticélod.
 
     ```title="traceroute"
     traceroute 1.1.1.1
