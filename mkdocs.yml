@@ -11,6 +11,7 @@ theme:
     - navigation.footer
     - navigation.top
     - toc.follow
+    - content.code.copy
 
   palette:
 
