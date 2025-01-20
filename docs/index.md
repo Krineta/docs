@@ -8,6 +8,8 @@ Ez azt jelenti, hogy csak a problémás, általunk támogatott szolgáltatások 
 
     Közösségünk központja a Discord szerverünk, és ott értesítünk mindenkit  a fejleményekről, szóval érdemes figyelni legalább a [`#changelog`]() (A szolgáltatással kapcsolatos frissítések) és [`#frissítések`]() (A közösséget érintő frissítések) szobákat!
 
+    **Ha problémát észlelsz a szolgáltatásban, tekintsd meg a [status](https://status.fxtelekom.org/) oldalunkat, mielőtt értesítenél minket!**
+
 !!! DANGER "Ez is!"
  
     Ha kilépsz a szerverről, azt annak tudjuk be, hogy nem érint vagy nem érdekel a szolgáltatás, és a configod (ha van) töröljük!
@@ -20,6 +22,7 @@ Ez azt jelenti, hogy csak a problémás, általunk támogatott szolgáltatások 
 - [:material-cog: Telepítés és beállítás](first-steps/intro)
 - [:material-update: Frissítés](update)
 - [:material-router-network: Beállítás routereken](router/router)
+- [:fontawesome-solid-money-bill-1: Támogatás](support)
 <!--
 - [:material-lock: Adatkezelési nyilatkozat](other/privacy)
 --->

@@ -12,6 +12,7 @@ theme:
     - navigation.top
     - toc.follow
     - content.code.copy
+    - content.tabs.link
 
   palette:
 
@@ -52,6 +53,7 @@ nav:
     - A DTAG problémáról: other/dtag.md
     - Szolgáltatások: other/services.md
     #    - Adatkezelési nyilatkozat: other/privacy.md
+  - Hogyan segíthetsz: help.md
   - Támogatás: support.md
 
 extra:
@@ -109,6 +111,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - admonition
   - pymdownx.details
   - md_in_html
