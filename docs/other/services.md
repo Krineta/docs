@@ -13,7 +13,7 @@ Amennyiben nem találod a problémás szolgáltatót vagy szolgáltatást, jelez
 | Gcore          | [:material-list-box:](https://fxtelekom.org/ips/gcore.txt) |
 | Websupport SK  | [:material-list-box:](https://fxtelekom.org/ips/websupportsk.txt) |
 | Geforce NOW    | [:material-list-box:](https://fxtelekom.org/ips/gfn.txt) |
-| World of Thanks| [:material-list-box:](https://fxtelekom.org/ips/wot.txt) |
+| World of Tanks| [:material-list-box:](https://fxtelekom.org/ips/wot.txt) |
 
 ## Szolgáltatók
 A szolgáltatás jelen állapotában a Magyar Telekom, illetve annak infrastruktúráján alapuló egyéb szolgáltatókkal kapcsolatos [problémákat](../dtag) hivatott orvosolni, amennyiben ismersz érintett szolgáltatót, amely nincs fent a listánkon, ne légy rest szólni [Discordon](https://discord.com/invite/n2WmGaEn3H)!
