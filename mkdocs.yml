@@ -39,20 +39,14 @@ extra_css:
 
 nav:
   - Bevezető: index.md
+  - A DTAG problémáról: dtag.md
+  - Szolgáltatások: services.md
   - Első lépések:
     - Első lépések: first-steps/intro.md
     - Wireguard telepítés: first-steps/install.md
     - Beállítás: first-steps/setup.md
   - Frissítés: update.md
-  - Router beállítások:
-    - Beállítás routereken: router/router.md
-    #    - Mikrotik: router/Mikrotik.md
-    #    - Asus: router/asus.md
-    #    - OPNSense: router/OPNSense.md
-  - Egyéb infók:
-    - A DTAG problémáról: other/dtag.md
-    - Szolgáltatások: other/services.md
-    #    - Adatkezelési nyilatkozat: other/privacy.md
+  - Beállítás routereken: router/router.md
   - Hogyan segíthetsz: help.md
   - Támogatás: support.md
 
@@ -61,11 +55,11 @@ extra:
     - icon: simple/discord
       link: https://discord.gg/n2WmGaEn3H
     - icon: simple/github
-      link: https://github.com/fxtelekom
+      link: https://github.com/krineta
     - icon: simple/kofi
       link: https://ko-fi.com/fxtelekom
   
-copyright: © 2024 FXTELEKOM
+copyright: © 2025 FXTELEKOM
 
 plugins:
   - search
@@ -87,7 +81,6 @@ plugins:
             Wireguard telepítés: Wireguard installation
             Beállítás: Setup
             Frissítés: Update
-            Router beállítások: Router settings
             Beállítás routereken: Setup on routers
             Egyéb infók: Other information
             A DTAG problémáról: About the DTAG problem

@@ -1,7 +1,7 @@
 ## Szolgáltatások
 
 Ezen az oldalon az általunk támogatott szolgáltatásokat és szolgáltatókat, és a hozzájuk tartozó ip listákat találod.
-Amennyiben nem találod a problémás szolgáltatót vagy szolgáltatást, jelezd nekünk Discordon, és meglátjuk mit tehetünk az érdekedben!
+Amennyiben nem találod a problémás szolgáltatót vagy szolgáltatást, jelezd nekünk [Discordon](https://discord.gg/n2WmGaEn3H), és meglátjuk mit tehetünk az érdekedben!
 
 
 | Szolgáltatás   | Lista               |
@@ -13,7 +13,14 @@ Amennyiben nem találod a problémás szolgáltatót vagy szolgáltatást, jelez
 | Gcore          | [:material-list-box:](https://fxtelekom.org/ips/gcore.txt) |
 | Websupport SK  | [:material-list-box:](https://fxtelekom.org/ips/websupportsk.txt) |
 | Geforce NOW    | [:material-list-box:](https://fxtelekom.org/ips/gfn.txt) |
-| World of Tanks| [:material-list-box:](https://fxtelekom.org/ips/wot.txt) |
+
+### Közvetetten támogatott szolgáltatások
+Ezen a listán olyan szolgáltatások találhatók, amiket közvetlenül nem támogatunk, de működnek, mert benne vannak a listáink valamelyikében, mert nem ritka, hogy CDN-eket használnak, mint például a Fastly.
+
+| Szolgáltatás   | Lista               |
+| -------------- | ------------------- |
+| Flight Simulator 24  | Fastly |
+| Tidal    | Fastly |
 
 ## Szolgáltatók
 A szolgáltatás jelen állapotában a Magyar Telekom, illetve annak infrastruktúráján alapuló egyéb szolgáltatókkal kapcsolatos [problémákat](../dtag) hivatott orvosolni, amennyiben ismersz érintett szolgáltatót, amely nincs fent a listánkon, ne légy rest szólni [Discordon](https://discord.com/invite/n2WmGaEn3H)!

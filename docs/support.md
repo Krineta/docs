@@ -13,21 +13,19 @@ Természetesen mindenkinek nagyon hálásak vagyunk, aki hozzájárul a projekth
 ## Támogatói szintek
 Free:
 
-* Alap szolgáltatások
+* Minden [általunk támogatott szolgáltatás](../services)
 
-* 8 nap inaktivitás után config törlés
+* Korlátozott sávszélesség: 50mb/s letöltés, 5mb/s feltöltés
 
-Támogató (Egyszeri támogató):
+Támogató:
+
+!!!WARNING "Figyelem!"
+    
+    Ez a tier **kizárólag havi támogatással működik**!
 
 * Korai hozzáférés bizonyos szolgáltatásokhoz
 
 * Privát chat szoba ahol több információt osztunk meg a szolgáltatásról
-
-* Inaktivitás után sem törlődnek a konfigurációk
-
-Támogató+ (Havi támogató):
-
-* Minden ami a sima támogatóban
 
 * 3 darab saját IP cím hozzárendelés a konfigurációhoz (például, ha szeretnél egy bizonyos szerveren játszani (privát szerverek esetén))
 
