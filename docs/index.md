@@ -17,14 +17,11 @@ Ez azt jelenti, hogy csak a problémás, általunk támogatott szolgáltatások 
 
 <div class="grid cards" markdown>
 
-- [:material-information-outline: A probléma oka, és a megoldás](other/dtag)
-- [:material-information-outline: Támogatott szolgáltatások](other/services)
+- [:material-information-outline: A probléma oka, és a megoldás](dtag)
+- [:material-information-outline: Támogatott szolgáltatások](services)
 - [:material-cog: Telepítés és beállítás](first-steps/intro)
 - [:material-update: Frissítés](update)
 - [:material-router-network: Beállítás routereken](router/router)
 - [:fontawesome-solid-money-bill-1: Támogatás](support)
-<!--
-- [:material-lock: Adatkezelési nyilatkozat](other/privacy)
---->
 
 </div>
